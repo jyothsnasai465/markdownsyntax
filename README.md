@@ -104,3 +104,5 @@ fun()
     - to receive github files from repository to local system
 ## inserting images
 ![nature](https://raw.githubusercontent.com/jyothsnasai465/markdownsyntax/master/images.jpg)
+## inserting videos
+[![](https://img.youtube.com/vi/_bQ5_RvKoVU/0.jpg)](https://www.youtube.com/watch?v=_bQ5_RvKoVU)
