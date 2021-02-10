@@ -42,6 +42,7 @@ __*sample text*__
 ## code of function definition
 `
 def fun():
+
     print("welcome to git workshop")   
 `
 ## function calling
