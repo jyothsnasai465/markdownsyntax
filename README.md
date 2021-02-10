@@ -102,3 +102,5 @@ fun()
     - to send your files from local system to server
 - git pull remotename branchname
     - to receive github files from repository to local system
+## inserting images
+![nature](https://raw.githubusercontent.com/jyothsnasai465/markdownsyntax/master/images.jpg)
